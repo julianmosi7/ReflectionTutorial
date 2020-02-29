@@ -1,0 +1,5 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\DummyLib\bin\Debug\DummyLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\DummyLib\bin\Debug\DummyLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\DummyLib\obj\Debug\DummyLib.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\DummyLib\obj\Debug\DummyLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\DummyLib\obj\Debug\DummyLib.pdb

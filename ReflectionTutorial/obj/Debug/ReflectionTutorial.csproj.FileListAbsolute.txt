@@ -1,0 +1,9 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\bin\Debug\ReflectionTutorial.exe.config
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\bin\Debug\ReflectionTutorial.exe
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\bin\Debug\ReflectionTutorial.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\bin\Debug\DummyLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\bin\Debug\DummyLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\obj\Debug\ReflectionTutorial.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\obj\Debug\ReflectionTutorial.csproj.CopyComplete
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\obj\Debug\ReflectionTutorial.exe
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ReflectionTutorial\ReflectionTutorial\obj\Debug\ReflectionTutorial.pdb
